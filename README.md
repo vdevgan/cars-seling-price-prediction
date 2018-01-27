@@ -4,4 +4,6 @@
 ###### Prediction about resale price value has been done.
 ###### Linear regressor was used which did not give very good score.
 ###### Random forest regressor took more time to run but gave significantly higher score.
-##### A heat map or a coorelation map was also plotted to see relation between several features.
+###### A heat map or a coorelation map was also plotted to see relation between several features.
+###### libraries used are numpy,matplotlib,sklearn,pandas.
+python 3 used.
