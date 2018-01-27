@@ -4,4 +4,4 @@
 ###### Prediction about resale price value has been done.
 ###### Linear regressor was used which did not give very good score.
 ###### Random forest regressor took more time to run but gave significantly higher score.
-##### A hot map or a coorelation map was also plotted to see relation between several features.
+##### A heat map or a coorelation map was also plotted to see relation between several features.
